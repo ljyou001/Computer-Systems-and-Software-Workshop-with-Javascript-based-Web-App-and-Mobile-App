@@ -1,2 +1,4 @@
-# HKBU-COMP2019-Computer-Systems-and-Software-Workshop-II-
-HKBU COMP2019 Computer Systems and Software Workshop II / COMP3047 Software Engineering Lab Session Only
+# Computer-Systems-and-Software-Workshop-with-Javascript-based-Web-App-and-Mobile-App
+
+Computer-Systems-and-Software-Workshop-with-Javascript-based-Web-App-and-Mobile-App
+
